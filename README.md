@@ -6,6 +6,7 @@ My goal with making websites is to help other people out with something they wan
 but simply can't without a website.
 
 What I'm focusing on 👨‍💻
+
 Currently besides from still learning more about laravel, I also started learning Vue.js
 since Javascript is very popular these days and its something that's used a lot in web development.
 
