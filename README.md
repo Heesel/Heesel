@@ -1,5 +1,5 @@
 Hello 👋, My name is Hessel!
-I am a 19 year old web developer from The Netherlands that loves to make websites with laravel/php & tailwindcss.  
+I am a 19 year old web developer from The Netherlands that loves to make websites with laravel/php, Vue, Nuxt & tailwindcss.  
 
 Since 2018 I started learning php and laravel. In 2021 is started learning Tailwindcss and Vue.js 
 My goal with making websites is to help other people out with something they want to achieve
