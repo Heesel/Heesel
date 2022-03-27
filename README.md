@@ -11,7 +11,7 @@ What I'm focusing on 👨‍💻
 Currently besides from still learning more about laravel, I also started learning Vue.js
 since Javascript is very popular these days and its something that's used a lot in web development.
 
-Projects i've published so far:
+Projects i've publish / helped with so far:
 
 Grrp.me:
 https://www.grrp.me
