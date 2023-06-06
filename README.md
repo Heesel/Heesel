@@ -15,7 +15,8 @@ Currently my main tech stack consists of Typescript, Vue / Nuxt, Tailwindcss & M
 
 Aside from that stack, I am also familiar with PHP / Laravel, Svelte and MySQL
 
-Projects i've publish / helped with so far:
+### Projects i've publish / helped with so far:
+
 [Grrp.me](https://www.grrp.me)
 
 Grrp.me is a website where user can create a profile and start posting important links on their profile
