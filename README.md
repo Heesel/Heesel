@@ -15,18 +15,6 @@ Currently my main tech stack consists of Typescript, Vue / Nuxt, Tailwindcss & M
 
 Aside from that stack, I am also familiar with PHP / Laravel, Svelte and MySQL
 
-### What I am currently learning
-
-Recently I started learning a Javascript framework named [Qwik](https://qwik.builder.io/docs/)
-
-
-### Projects i've publish / helped with so far:
-
-[Grrp.me](https://www.grrp.me)
-
-Grrp.me is a website where user can create a profile and start posting important links on their profile
-they can then paste their Grrp.me profile link bio on instagram or on other social media platforms 😉
-
 -------------------------
 
-[My website](https://hessel-portfolio.vercel.app/)
+[My website](https://www.hesselp.dev/)
