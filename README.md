@@ -17,4 +17,6 @@ Aside from that stack, I am also familiar with PHP / Laravel, Svelte and MySQL
 
 -------------------------
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Heesel&show_icons=true&theme=transparent)
+
 [My website](https://www.hesselp.dev/)
