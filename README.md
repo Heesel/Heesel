@@ -9,6 +9,9 @@ Since 2018 I started learning php and laravel. In 2021 is started learning Tailw
 My goal with making websites is to help other people out with something they want to achieve
 but simply can't without a website.
 
+-------------------------
+
+
 ### My skills 👨‍💻
 
 Currently my main tech stack consists of Typescript, Vue / Nuxt, Tailwindcss & MongoDB.
@@ -16,7 +19,10 @@ Currently my main tech stack consists of Typescript, Vue / Nuxt, Tailwindcss & M
 Aside from that stack, I am also familiar with PHP / Laravel, Svelte and MySQL
 
 -------------------------
+
 ### Github stats 📊
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Heesel&show_icons=true&theme=transparent) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heesel&layout=compact&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Heesel&show_icons=true&theme=transparent) 
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heesel&layout=compact&theme=transparent)
 
 [My website](https://www.hesselp.dev/)
