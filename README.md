@@ -3,7 +3,7 @@
 My name is Hessel!
 
 I am a 24 year old web developer from The Netherlands that loves to make websites with laravel/php, Vue, Nuxt & tailwindcss.
-Besides from web development, I also like to make discord bots using discord js.
+Aside from web development, I also like to make discord bots using discord js.
 
 Since 2018 I started learning php and laravel. In 2021 is started learning Tailwindcss and Vue.js 
 My goal with making websites is to help other people out with something they want to achieve
